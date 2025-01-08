@@ -32,7 +32,12 @@ Este projeto aplica técnicas de aprendizado de máquina para prever se um usuá
     python3 -m venv venv
     source venv/bin/activate
    ```
-3. Verifique as instalações (opcional)
+3. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Verifique as instalações (opcional)
     ```bash
     pip list
    ```
